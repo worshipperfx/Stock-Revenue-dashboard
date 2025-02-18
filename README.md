@@ -125,5 +125,15 @@ Edit
 python stock_data_visualization.py
 Screenshots
 
+![Screenshot of Tesla Stock Graph](assets/tesla_graph.png)
+
+![Tesla](https://github.com/user-attachments/assets/a87ad0af-fb4e-4e30-8b5a-dfeda2b6552e)
+
+![Screenshot of GameStop Stock Graph](assets/Gamestop.png)
+
+![GameStop](https://github.com/user-attachments/assets/cbda0713-3a07-46c3-86fd-e3abe9b093a7)
+
+
+
 About the Author
 This project was developed as part of a data analysis initiative  to explore historical stock and revenue data for companies like Tesla and GameStop. It aims to provide a clear visualization of the trends and performance of these companies up to June 2021.
