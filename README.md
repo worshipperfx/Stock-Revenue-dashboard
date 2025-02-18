@@ -6,20 +6,26 @@ This project involves extracting stock data for companies like Tesla and GameSto
 
 Project Objectives
 
-Extract Stock Data: Use the yfinance library to pull historical stock data for Tesla and GameStop.
-Web Scraping: Extract revenue data from web sources using BeautifulSoup and store it in a structured format.
-Data Visualization: Plot stock price trends and revenue data using interactive charts to provide insights into company performance.
-Focus on Timeframe: The graphs are restricted to display data up to June 2021, giving a historical perspective on company performance until this date.
+Extract Stock Data
+Use the yfinance library to pull historical stock data for Tesla and GameStop.
+Web Scraping
+Extract revenue data from web sources using BeautifulSoup and store it in a structured format.
+Data Visualization
+Plot stock price trends and revenue data using interactive charts to provide insights into company performance.
+Focus on Timeframe
+The graphs are restricted to display data up to June 2021, giving a historical perspective on company performance until this date.
 Features
-Tesla Stock Data Visualization: Displays Tesla’s historical stock prices and revenue trends up to June 2021.
-GameStop Stock Data Visualization: Visualizes GameStop’s stock prices and revenue, providing insights into its performance.
+Tesla Stock Data Visualization
+Displays Tesla’s historical stock prices and revenue trends up to June 2021.
+GameStop Stock Data Visualization
+Visualizes GameStop’s stock prices and revenue, providing insights into its performance.
 Interactive Plots: The use of plotly creates interactive and visually appealing charts with hoverable data points and range sliders.
 
 Project Workflow
 
 1. Extracting Stock Data Using yfinance
-2. 
-The yfinance library is used to pull stock data for Tesla and GameStop.
+   
+2.The yfinance library is used to pull stock data for Tesla and GameStop.
 
 python
 Copy
